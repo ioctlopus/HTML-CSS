@@ -1,0 +1,18 @@
+table {
+    border: 2px solid sienna;
+}
+
+td:hover {
+        background-color: goldenrod;
+        color: darkblue;
+}
+
+tr, th {
+    background-color: greenyellow;
+    color:indigo;
+}
+
+tr, td {
+    background-color: whitesmoke;
+    color: black;
+}
