@@ -1,0 +1,36 @@
+html{
+    font-family: "Arial", Times, sans-serif;
+    font-size: medium;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+}
+
+.container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.rsvp{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+.rsvp input[type="text"]{
+    width: 75%;
+    margin: 10px 1em;
+    border-top: 1px solid #09BB0D;
+    border-right: 2px solid #294549;
+    border-bottom: 2px solid #454549;
+    border-left: 1px solid #09CB0D;
+    border-radius: 10px;
+}
+
+.sub input[type="submit"{
+    color: rgb(223, 223, 223);
+
+}
